@@ -1,2 +1,5 @@
 # patterns
-Generating patterns and designs using simple programming
+Generating some visual patterns and designs.
+
+# Contribution
+Just send PRs :blush:
